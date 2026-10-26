@@ -184,6 +184,7 @@ export default function Sidebar({ layout, pieces }: { layout: Layout; pieces: Pi
           <ExportButton onClick={() => exportDXF(pieces, FILE_NAME)}>DXF</ExportButton>
           <ExportButton onClick={() => exportArtwork(pieces, FILE_NAME)}>Print PNG</ExportButton>
         </div>
+        <p className="text-center text-[11px] text-stone-400">Made with 💛 by Cris</p>
       </footer>
     </aside>
   );
