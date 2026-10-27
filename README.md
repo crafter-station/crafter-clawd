@@ -1,5 +1,11 @@
 # Crafter Station · Clawd costume
 
+[![Live](https://img.shields.io/badge/live-clawd.crafter.run-ee6a1c)](https://clawd.crafter.run)
+[![GitHub stars](https://img.shields.io/github/stars/crafter-station/crafter-clawd?style=flat)](https://github.com/crafter-station/crafter-clawd/stargazers)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
+![Crafter Station Clawd costume — Just Ship It](https://clawd.crafter.run/opengraph-image)
+
 Build a wearable cardboard Clawd, sized to you, flying a **Just Ship It** flag. Design it in 3D,
 then export cut-ready dielines (SVG/DXF) and print artwork (PNG).
 

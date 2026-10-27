@@ -14,6 +14,7 @@ export type Design = {
 };
 
 export const CRAFTER_URL = "https://crafter.run";
+export const REPO_URL = "https://github.com/crafter-station/crafter-clawd";
 
 const DESIGN: Design = {
   board: "white",

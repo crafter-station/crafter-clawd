@@ -13,8 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://clawd.crafter.run"),
   title: "Crafter Station · Clawd costume",
   description: "Build a wearable cardboard Clawd, sized to you. Cut files included.",
+  twitter: { card: "summary_large_image" },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
